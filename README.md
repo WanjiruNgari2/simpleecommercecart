@@ -18,5 +18,5 @@ Ensure you can:
 4.Remove a product from the cart or adjust its quantity.
 
 #### contacts
-Contact me via wanjirunagri2@gmail.com incase of any questions.
+Contact me via wanjirunagri2@gmail.com incase of any questions. Thanks
 
